@@ -1,9 +1,9 @@
-# oss-number-generator
+# tea-oss-number-generator
 
 Run:
 
 ```
-npm i oss-number-generator
+npm i tea-oss-number-generator
 
 ```
 
@@ -16,8 +16,8 @@ touch generate.js
 ```
 
 ```
-const OssNumberGenerator = require('oss-number-generator');
-console.log(OssNumberGenerator(5, 10));
+const TeaOssNumberGenerator = require('oss-number-generator');
+console.log(TeaOssNumberGenerator(5, 10));
 
 ```
 
