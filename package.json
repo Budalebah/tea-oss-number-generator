@@ -1,0 +1,15 @@
+{
+  "name": "oss-number-generator",
+  "version": "1.0.1",
+  "description": "budavlebac oss-number-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "generator"
+  ],
+  "author": "budavlebac",
+  "license": "ISC"
+}
