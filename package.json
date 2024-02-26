@@ -13,3 +13,7 @@
   "author": "budavlebac",
   "license": "ISC"
 }
+ "dependencies": {
+    "tea-oss-number-generator": "^1.0.1"
+  }
+}
