@@ -14,4 +14,6 @@
   "license": "ISC"
   "dependencies": {
     "tea-oss-number-generator": "^1.0.3"
+    "repository": {
+      "url" : "https://github.com/Budalebah/tea-oss-number-generator.git"
 }
