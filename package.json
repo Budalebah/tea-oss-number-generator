@@ -11,9 +11,11 @@
     "generator"
   ],
   "author": "budavlebac",
-  "license": "ISC"
+  "license": "ISC",
   "dependencies": {
-    "tea-oss-number-generator": "^1.0.3"
+    "tea-oss-number-generator": "^1.0.4"
+  },
   "repository": {
-      "url" : "https://github.com/Budalebah/tea-oss-number-generator.git"
+    "url": "https://github.com/Budalebah/tea-oss-number-generator.git"
+  }
 }
